@@ -1,7 +1,7 @@
 # Kuis_Kesehatan
 
 Ketika program dijalankan maka output yang ditampilkan adalah seperti berikut
-![alt text](Output.PNG)
+![alt text](Ouput.PNG)
 
 Setelah itu, kita bisa menginputkan data kita. Contohnya kita menginputkan data tinggi dan berat badan wanita yang nantinya akan di proses untuk mengetahui apakah dia sudah ideal atau belum.
 
